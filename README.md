@@ -1,3 +1,6 @@
-# AI_Research
+# Generative_AI_Research
 
-put some stuff - all data for the project
+This is a repository for storing my research data and documents
+
+
+
